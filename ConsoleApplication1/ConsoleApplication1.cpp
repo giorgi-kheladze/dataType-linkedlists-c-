@@ -13,6 +13,9 @@ void print(Node* n){
 	}
 }
 
+//function to add element at the fron of the list
+
+
 int main() {
 	Node* head = new Node();
 	Node* first = new Node();
