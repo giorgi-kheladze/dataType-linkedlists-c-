@@ -29,6 +29,7 @@ int main() {
 	second->next = NULL;
 
 	print(head);
+	cout << "giorgi";
 
 	return 0;
 }
